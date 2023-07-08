@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "name": "calculator-folder",
+  "version": "1.0.0",
+  "description": "calculator using backend",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vignesh",
+  "license": "ISC"
+}
